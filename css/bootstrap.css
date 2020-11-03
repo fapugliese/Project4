@@ -2012,7 +2012,8 @@ pre code {
 
 .row {
     margin-right: -15px;
-    margin-left: -15px
+    margin-left: -15px;
+    color: white;
 }
 
 .col-lg-1,
@@ -2328,7 +2329,8 @@ pre code {
         width: 41.66666667%
     }
     .col-sm-4 {
-        width: 33.33333333%
+        width: 33.33333333%;
+        color: white;
     }
     .col-sm-3 {
         width: 25%

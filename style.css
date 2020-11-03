@@ -251,6 +251,13 @@ a:hover {
 .l-bloc p a:hover {
     color: rgba(0, 0, 0, 1);
 }
+.white{
+    color: white;
+}
+
+.hide{
+    display: none;
+}
 
 .l-bloc .navbar-toggle .icon-bar {
     color: rgba(0, 0, 0, .6);
